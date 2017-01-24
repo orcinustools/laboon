@@ -1,0 +1,10 @@
+package: github.com/orcinustools/laboon
+homepage: https://orcinustools.github.io/laboon
+license: MIT
+owners:
+- name: Imam Digmi
+  email: imamdigmi@gmail.com
+  homepage: imamdigmi.github.io
+import:
+- package: github.com/gorilla/websocket
+  version: ^1.1.0
