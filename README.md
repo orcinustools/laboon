@@ -10,7 +10,7 @@ Make sure you have [Glide](https://glide.sh) installed on your machine
 
 1. Clone
 	```
-	git clone https://github.com/imamdigmi/simple-golang-chatapp.git
+	git clone https://github.com/orcinustools/laboon.git
 	```
 2. Install dependencies
 	```
